@@ -1,3 +1,2 @@
 #!/bin/bash
-
-### Nao apague a linha acima! ###
+mkdir -p ~/joao ~/maria
